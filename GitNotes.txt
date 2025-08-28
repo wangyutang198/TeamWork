@@ -11,3 +11,6 @@ Please make sure you have the correct access rights
 and the repository exists.
 
 若出現以上訊息可用git push -f
+
+
+當你想分享你的專案成果時，你必需將它推送到上游。 推送的命令很簡單： git push [remote-name] [branch-name] 。 如果你想要將master 分支推送到 ...
